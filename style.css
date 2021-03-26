@@ -446,7 +446,6 @@ h4 {
     display: flex;
     position: absolute;
     margin-top: 112%;
-    border: 2px solid red;
     width: 90%;
 }
 
@@ -832,11 +831,12 @@ h4 {
 
 .footer {
     top: 200rem;
-    margin-top: 77.2%;
+    margin-top: 80.8%;
     position: relative;
     background-color: #232323;
     color: #fff;
     height: 385.81px;
+    
 }
 
 .footer .footer-content {
